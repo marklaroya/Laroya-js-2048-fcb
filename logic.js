@@ -582,8 +582,3 @@ function canMoveDown() {
         }
         return false;
     }
-
-
-
-
-
